@@ -1,0 +1,29 @@
+Ranking GOLD/LAND USERNAME
+Gives the users ranking in the game
+
+CRank GOLD/LAND CONTINENT
+Give the continent Ranking
+
+Cstats CONTINENT
+Give stats about continents - total land/total gold/power base nation/name/number of countrys
+
+GStats
+Give stats about the game - signups enabled/tick times/server status
+
+Incomming USERNAME
+Gives the total of incomming hostiles/friendleys with etas
+
+Messages USERNAME
+Tells the user if they have new messages (not read them though)
+
+News USERNAME
+Tells the user if they have new news
+
+Admins
+Shows the location of all the admin accounts
+
+Setnick USERNAME PASSWORD
+Sets the users irc nick name to their current one
+
+CIncomming CONTINENT
+Tells you if there are incomming hostiles for that continent.

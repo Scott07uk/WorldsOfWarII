@@ -1,0 +1,57 @@
+<!--
+.tdheaderline{
+	background: #25211E;
+	font-family: arial;
+	font-size: 12px;
+	border-bottom:solid;
+	border-width: 1;
+}
+.tdheader{
+	background: #25211E;
+	font-family: arial;
+	font-size: 12px;
+}
+.norm{
+	background:#0D1724;
+
+}
+.form{
+	color: #ffffff;
+	font-family: arial;
+	font-size: 12px;
+	border: solid;
+	border-width: 1px;
+	border-color: #ffffff;
+	background: #000000;
+}
+.all{
+	border-bottom:solid;
+	border-width: 1px;
+}
+td{
+	font-family: arial;
+	font-size: 12px;
+}
+body{
+	font-family: arial;
+	font-size: 12px;
+}
+
+.plinks{
+	font-family:courier;
+	color:#00FF00;
+	font-size:16px;
+	text-decoration:none;
+}
+.unixform{
+	font-family:courier;
+	color:#00FF00;
+	font-size:16px;
+	text-decoration:none;
+	background: #000000;
+	border: solid;
+}
+.credits{
+}
+
+-->

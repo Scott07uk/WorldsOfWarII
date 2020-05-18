@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="http://www.google.com/schemas/sitemap/0.84"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.google.com/schemas/sitemap/0.84
+                      http://www.google.com/schemas/sitemap/0.84/sitemap.xsd">
+
+<url>
+  <loc>http://www.worldsofwar.co.uk/</loc>
+  <priority>1</priority>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.worldsofwar.co.uk/announcements.asp</loc> 
+  <priority>0.5</priority> 
+  <changefreq>weekly</changefreq> 
+  </url>
+<url>
+  <loc>http://www.worldsofwar.co.uk/search.asp</loc> 
+  <priority>0.5</priority> 
+  <changefreq>monthly</changefreq> 
+  </url>
+
+<url>
+<loc>http://www.worldsofwar.co.uk/status.asp</loc> 
+<priority>0.5</priority> 
+<changefreq>daily</changefreq> 
+</url>
+
+<url>
+<loc>http://www.worldsofwar.co.uk/register1.asp</loc> 
+<priority>0.5</priority> 
+<changefreq>weekly</changefreq> 
+</url>
+
+<url>
+<loc>http://www.worldsofwar.co.uk/login.asp</loc> 
+<priority>0.5</priority> 
+<changefreq>monthly</changefreq> 
+</url>
+
+<url>
+<loc>http://www.worldsofwar.co.uk/help.asp</loc> 
+<priority>0.5</priority> 
+<changefreq>weekly</changefreq> 
+</url>
+
+<url>
+<loc>http://www.worldsofwar.co.uk/manual/default.asp</loc> 
+<priority>0.5</priority> 
+<changefreq>weekly</changefreq> 
+</url>
+
+<url>
+<loc>http://www.worldsofwar.co.uk/priv_news.asp</loc> 
+<priority>0.1</priority> 
+<changefreq>weekly</changefreq> 
+</url>
+
+<url>
+<loc>http://www.worldsofwar.co.uk/over.asp</loc> 
+<priority>0.1</priority> 
+<changefreq>weekly</changefreq> 
+</url>
+
+</urlset>
